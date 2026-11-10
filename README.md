@@ -14,15 +14,15 @@ x install rea
 
 ## Code insight
 
-Total: **1,809,491** lines of code across **6720** files in the top 5 languages.
+Total: **1,915,340** lines of code across **7013** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 1,544,127 | 38,699 | 66,311 | 6030 |
-| Json | 115,351 | 0 | 0 | 56 |
-| JavaScript | 98,837 | 2,120 | 2,586 | 527 |
-| Python | 16,796 | 313 | 1,836 | 83 |
-| Html | 13,846 | 1,051 | 40 | 24 |
+| TypeScript | 1,648,323 | 43,109 | 71,150 | 6318 |
+| Json | 115,393 | 0 | 0 | 56 |
+| JavaScript | 99,533 | 2,149 | 2,613 | 530 |
+| Python | 17,259 | 321 | 1,887 | 85 |
+| Html | 13,866 | 1,071 | 40 | 24 |
 
 ## Source
 
@@ -33,26 +33,26 @@ Total: **1,809,491** lines of code across **6720** files in the top 5 languages.
 ## Release
 
 - **Latest**: `rea-agents-6.8.0` (2026-10-25)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-10
 
 ## Popularity
 
-- **Stars**: 441,673 · **Forks**: 109,253 · **Open issues**: 4,003 · **Contributors**: 372
+- **Stars**: 448,082 · **Forks**: 110,462 · **Open issues**: 4,108 · **Contributors**: 381
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 2935 · **Open PRs**: 762 · **Closed issues**: 3155 · **Open issues**: 848 · **Commits**: 6699
+- **Releases**: 39 · **Merged PRs**: 3075 · **Open PRs**: 806 · **Closed issues**: 3193 · **Open issues**: 915 · **Commits**: 6853
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 8 | 2147 | 762 | 2732 | 792 | 3338 |
-| last60d | 2026-09-09 | 15 | 2720 | 762 | 2939 | 811 | 5732 |
-| 90d | 2026-08-10 | 15 | 2723 | 762 | 2939 | 811 | 5734 |
-| last180d | 2026-05-12 | 39 | 2934 | 762 | 3155 | 848 | 6263 |
-| 360d | 2025-11-13 | 39 | 2934 | 762 | 3155 | 848 | 6264 |
-| last720d | 2024-11-18 | 39 | 2934 | 762 | 3155 | 848 | 6699 |
+| 30d | 2026-10-11 | 5 | 1968 | 796 | 2603 | 841 | 3491 |
+| last60d | 2026-09-11 | 15 | 2860 | 806 | 2977 | 878 | 5885 |
+| 90d | 2026-08-12 | 15 | 2861 | 806 | 2977 | 878 | 5887 |
+| last180d | 2026-05-14 | 39 | 3074 | 806 | 3193 | 915 | 6416 |
+| 360d | 2025-11-15 | 39 | 3074 | 806 | 3193 | 915 | 6417 |
+| last720d | 2024-11-20 | 39 | 3074 | 806 | 3193 | 915 | 6853 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for rea lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:04:11Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:36:52Z._
